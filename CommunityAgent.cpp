@@ -10,6 +10,7 @@
 static char THIS_FILE[] = __FILE__;
 #endif
 
+//taeyoon kim
 
 CWinApp theApp;
 SOCKET server;
